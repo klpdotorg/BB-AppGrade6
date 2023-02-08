@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 instance 10000",
+	"frame": {"x":0,"y":0,"w":57,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":81},
+	"sourceSize": {"w":57,"h":81}
+}
+,{
+	"filename": "Symbol 1 instance 10001",
+	"frame": {"x":57,"y":0,"w":57,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":81},
+	"sourceSize": {"w":57,"h":81}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.4.185",
+	"image": "Chess Coins_2.png",
+	"format": "RGBA8888",
+	"size": {"w":114,"h":81},
+	"scale": "1"
+}
+}
