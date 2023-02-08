@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 8 instance 10000",
+	"frame": {"x":0,"y":0,"w":22,"h":248},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":248},
+	"sourceSize": {"w":22,"h":248}
+}
+,{
+	"filename": "Symbol 8 instance 10001",
+	"frame": {"x":22,"y":0,"w":22,"h":248},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":248},
+	"sourceSize": {"w":22,"h":248}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.4.185",
+	"image": "Line & Maches.png",
+	"format": "RGBA8888",
+	"size": {"w":50,"h":250},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 2 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":78,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":77},
+	"sourceSize": {"w":78,"h":77}
+}
+,{
+	"filename": "Symbol 2 copy instance 10001",
+	"frame": {"x":78,"y":0,"w":78,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":77},
+	"sourceSize": {"w":78,"h":77}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "thums Up.png",
+	"format": "RGBA8888",
+	"size": {"w":157,"h":79},
+	"scale": "1"
+}
+}
