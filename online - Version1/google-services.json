@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "50555987083",
+    "firebase_url": "https://easymath-html-master.firebaseio.com",
+    "project_id": "easymath-html-master",
+    "storage_bucket": "easymath-html-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50555987083:android:e67e8d0cf30cef89",
+        "android_client_info": {
+          "package_name": "com.Akshara.ENBBplusplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50555987083-nu71hpmeg2vutsl3c69henc1im6okajv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Akshara.ENBBplusplus",
+            "certificate_hash": "d9c99e1c72da442fe885ecbe9e94bf3c4340a95a"
+          }
+        },
+        {
+          "client_id": "50555987083-110stniljnh569a598d1v889v4l168bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Akshara.ENBBplusplus",
+            "certificate_hash": "87e58c811145230394a0ba4ecb6685ae2ae55d1f"
+          }
+        },
+        {
+          "client_id": "50555987083-i2i55f4a59k7agsnhli8m59uh3up0s1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpSa13g3TnFocdmEnQvI5ZbeitthRfTYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50555987083-i2i55f4a59k7agsnhli8m59uh3up0s1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
