@@ -82,7 +82,6 @@ Game.AL_MAZE_G6level1.prototype =
         
         _this.seconds = 0;
         _this.minutes = 0;
-
         _this.counterForTimer = 0;
 
         _this.handisDisplayed = false;
